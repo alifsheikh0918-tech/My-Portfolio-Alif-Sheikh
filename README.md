@@ -1,21 +1,21 @@
-# My Portfolio (React + Tailwind)
+# My Portfolio
 
-## Run
-```
-npm install
-npm run dev
-```
-Browser e http://localhost:5173 khulo.
+A modern, responsive portfolio website built with **React** and **Tailwind CSS**.
 
-## Edit
-- Naam, email, projects, skills: `src/data.js`
-- Page title: `index.html`
-- Section er order: `src/App.jsx`
+## 🚀 Getting Started
 
-## Deploy
-```
-npm run build
-```
-`dist` folder ta Vercel ba Netlify te upload koro.
+Follow these instructions to get a copy of the project up and running on your local machine.
 
-Node.js 20 ba tar upore lagbe.
+### Prerequisites
+
+- Node.js (v20.0.0 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
+git clone [https://github.com/alifsheikh0918-tech/My-Portfolio-Alif-Sheikh
+.git](https://github.com/alifsheikh0918-tech/My-Portfolio-Alif-Sheikh
+.git)
+
